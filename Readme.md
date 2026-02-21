@@ -1,7 +1,7 @@
 # Stockfish Chess Python
 **⚠️ Requirements:** You must have [Stockfish.exe](https://stockfishchess.org/download/) in the folder to play!
 
-https://github.com/rizwanahmed109-beep/stockfish-chess-python/blob/main/screenshots/Screenshot%202026-02-21%20044917.png
+![Chess Game Preview](https://github.com/rizwanahmed109-beep/stockfish-chess-python/blob/main/screenshots/Screenshot%202026-02-21%20044917.png?raw=true)
 
 ## Description
 A fully functional, graphical 2D chess game built using Python, Pygame, and the world-class Stockfish engine. Stockfish is a free and open-source chess engine, which has won all main events of the Top Chess Engine Championship (TCEC) since 2020. 
